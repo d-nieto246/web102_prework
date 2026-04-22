@@ -23,9 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[Website Recording.mp4](Website Recording.mp4)
-C:\Users\danil\DNieto_WEB102 Prework\web102_prework\Website Recording.mp4
-web102_prework\Website Recording.mp4
+(refer to Website Recording.mp4 in the folder if below doesn't work)
+https://github.com/d-nieto246/web102_prework/blob/d666f79f3fd3c36204ee538c7d157086568804fa/Website%20Recording.mp4
 
 ## Notes
 
